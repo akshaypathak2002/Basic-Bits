@@ -15,7 +15,8 @@ int countBitsFlip(int a, int b)
 }
 int main()
 {
-    int a, b; 
-    cin>>a>>b;//Taking input 
+    int a, b;
+    cin >> a >> b; // Taking input
+    cout << countBitsFlip(a, b) << endl;
     return 0;
 }
