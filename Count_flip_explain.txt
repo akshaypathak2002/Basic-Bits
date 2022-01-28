@@ -1,0 +1,5 @@
+if we give input a=10 and b=20 
+then we get output :4 
+if we see binary of 10 is 01010 and 20 is 10100 
+We can see that if there is a difference in bit then we need to increase count 
+So our output is 4 
