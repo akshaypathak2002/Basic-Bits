@@ -13,6 +13,7 @@ int countBitsFlip(int a, int b)
         b >>= 1; // Right shifting the bit
     }
     return count;//Returning the output 
+    // This is the best way 
 }
 int main()
 {
